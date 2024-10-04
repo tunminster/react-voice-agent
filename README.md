@@ -54,3 +54,4 @@ You can add your own custom instructions by adding them to the `server/src/serve
 
 - [ ] Enable interrupting the AI
 - [ ] Enable changing of instructions/tools based on state
+- [ ] Enable human like voice response
